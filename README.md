@@ -1,5 +1,5 @@
 # AHNS
-PyTorch implementation for Adaptive Hardness Negative Sampling for Collaborative Filtering, AAAI2024
+PyTorch Implementation for Adaptive Hardness Negative Sampling for Collaborative Filtering, AAAI2024
 
 --- Based on "MixGCF: An Improved Training Method for Graph Neural Network-based Recommender Systems", https://github.com/huangtinglin/MixGCF
 
